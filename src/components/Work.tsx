@@ -167,6 +167,24 @@ const Work = () => {
           </div>
           </a>
 
+          {/* Block 07 */}
+          <div className="work-box">
+            <div className="work-info">
+              <div className="work-title">
+                <h3>07</h3>
+                <div>
+                  <h4>Snake Game</h4>
+                  <p>Nostalgic Snake Game</p>
+                </div>
+              </div>
+              <h4>Tools and features</h4>
+              <p>HTML, CSS, Javascript</p>
+            </div>
+            <a href="https://snake-game-parth-thukral.vercel.app/" target="_blank">
+            <WorkImage image="/images/snake-game.png" alt="Snake Game" />
+            </a>
+          </div>
+
         </div>
       </div>
     </div>
